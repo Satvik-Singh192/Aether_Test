@@ -9,6 +9,17 @@ int main(){
     cout << "Testing"; // Testing cout
     cout << "Hello Worlds\n";
 
+
+    
+
+
+
+    cout<<"Testing push block on main\n";
+
+
+
+
+
     const float dt=1.0f/60.0f;
     const Vec3 gravity(0.0f,-9.8f,0.0f);
 
